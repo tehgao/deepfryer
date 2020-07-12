@@ -2,4 +2,7 @@ libsm6
 libxrender1
 libfontconfig1
 libice6
-python3-pil
+libjpeg-dev 
+libfreetype6 
+libfreetype6-dev 
+zlib1g-dev
