@@ -1,1 +1,1 @@
-worker: python deepfryer.py
+worker: python3 deepfryer.py
