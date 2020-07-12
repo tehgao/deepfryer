@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "66681f2b8fae68af4c5b7a558b8441fee082ceb1745191a8df9606d5ef1313b2"
+            "sha256": "eae961d3995ed54f9457557224ba94237191f8177612c383f68a99bce16392db"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -56,10 +56,6 @@
                 "sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"
             ],
             "version": "==3.0.4"
-        },
-        "deepfryer": {
-            "path": ".",
-            "version": "==0.0.1"
         },
         "deeppyer": {
             "hashes": [
