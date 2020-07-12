@@ -142,7 +142,7 @@ setup(
         "multidict==4.7.6; python_version >= '3.5'",
         "numpy==1.19.0; python_version >= '3.6'",
         "opencv-python==4.3.0.36",
-        "pillow==7.2.0; python_version >= '3.5'",
+        "pillow==7.2.0",
         "websockets==8.1; python_full_version >= '3.6.1'",
         "yarl==1.4.2; python_version >= '3.5'",
     ],  # Optional

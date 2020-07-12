@@ -10,6 +10,7 @@ pipenv-setup = "*"
 [packages]
 "discord.py" = "*"
 deeppyer = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
